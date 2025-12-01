@@ -1,0 +1,13 @@
+transformers
+peft
+streamlit
+datasets
+torch
+accelerate
+scikit-learn
+evaluate
+requests
+beautifulsoup4
+newspaper3k
+pandas
+numpy
